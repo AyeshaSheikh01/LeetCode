@@ -26,6 +26,8 @@ This repository contains Python solutions for various LeetCode problems.
 - ConvertTemp2469.py - Solution for Convert the Temperature
 - ImplementationOfQueueUsingStack.py - Solution for Implement Queue using Stacks
 
+- MostCommonWord819.py - Solution for Most Common Word (added 2026-07-24)
+
 ## How to Use
 
 Run any Python file directly with:
