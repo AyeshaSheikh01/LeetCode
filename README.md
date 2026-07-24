@@ -27,6 +27,7 @@ This repository contains Python solutions for various LeetCode problems.
 - ImplementationOfQueueUsingStack.py - Solution for Implement Queue using Stacks
 
 - MostCommonWord819.py - Solution for Most Common Word (added 2026-07-24)
+- TopKFrequentElement347.py - Solution for Top K Frequent Elements (added 2026-07-25)
 
 ## How to Use
 
