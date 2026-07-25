@@ -28,6 +28,7 @@ This repository contains Python solutions for various LeetCode problems.
 
 - MostCommonWord819.py - Solution for Most Common Word (added 2026-07-24)
 - TopKFrequentElement347.py - Solution for Top K Frequent Elements (added 2026-07-25)
+- GroupAnagrams49.py - Solution for group anagrams (added 2026-07-26) 
 
 ## How to Use
 
