@@ -29,7 +29,7 @@ This repository contains Python solutions for various LeetCode problems.
 - MostCommonWord819.py - Solution for Most Common Word (added 2026-07-24)
 - TopKFrequentElement347.py - Solution for Top K Frequent Elements (added 2026-07-25)
 - GroupAnagrams49.py - Solution for group anagrams (added 2026-07-26)
-- ValidSudoku36.py - Solution for valid Sudoku (added 2026-07-27)
+- ValidSudoku36.py - Solution for valid Sudoku (added 2026-07-27) ( It took me an hour and half so dont lose hope, its normal to take alot in the start) 
 
 ## How to Use
 
