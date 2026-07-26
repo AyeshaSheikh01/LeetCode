@@ -1,5 +1,4 @@
-# Group Anagrams 
-
+# Group Anagrams
 class Solution:
     def groupAnagrams(self, strs): 
         strs=[s.lower() for s in strs] # for the edge case, make all the strings small
