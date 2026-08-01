@@ -5,7 +5,7 @@ class Solution:
         j=len(s)-1 
         while i<j:  
             if (i!=j):  
-                s[i],s[j]=s[j],s[i]  
+                s[i],s[j]=s[j],s[i]  # reversing the string by swapping the first and last element of the string
                 i=i+1 
                 j=j-1
 s=["h","e","l","l","o"]
