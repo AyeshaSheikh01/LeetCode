@@ -33,10 +33,15 @@ This repository contains Python solutions for various LeetCode problems.
 - MoveZeros283.py - Solution for Move zero (added 2026-07-28)
 - ProductOfArrayExceptSelf238- Not Solved yet as I am struggling to solve it today (added 2026-07-28)
 I will continue it tomorrow or after a day or two.
-- findTheDifference389.py — Find the Difference
-- intersectionOfTwoArrays349.py — Intersection of Two Arrays
-- reverseString344.py — Reverse String
-- squaresOfSortedArray977.py — Squares of a Sorted Array
+- intersectionOfTwoArrays349.py — Intersection of Two Arrays (2026-07-28)
+- findTheDifference389.py — Find the Difference (2026-07-29)
+- reverseString344.py — Reverse String (2026-07-29)
+- squaresOfSortedArray977.py — Squares of a Sorted Array (2026-07-30)
+- twoSumII-inputarrayissorted167.py (2026-07-30)
+- Merge sorted arrays (2026-07-31)
+Took a break for a day !!!!
+- 3Sum15.py - solution for three sums (02/08/2026)
+- Reverse vowels of a string345.py (02/08/2026)
 ## How to Use
 
 Run any Python file directly with:
