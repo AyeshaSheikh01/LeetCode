@@ -25,6 +25,9 @@ This repository contains Python solutions for various LeetCode problems.
 - lengthOfLastWord.py - Solution for Length of Last Word
 - ConvertTemp2469.py - Solution for Convert the Temperature
 - ImplementationOfQueueUsingStack.py - Solution for Implement Queue using Stacks
+- containMostWater11.py - Solution for Container With Most Water
+- mergeSTringsAlternately1768.py - Solution for Merge Strings Alternately
+- reverseWordsInAString151.py - Solution for Reverse Words in a String
 
 - MostCommonWord819.py - Solution for Most Common Word (added 2026-07-24)
 - TopKFrequentElement347.py - Solution for Top K Frequent Elements (added 2026-07-25)
